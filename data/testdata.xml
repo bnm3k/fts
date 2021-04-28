@@ -1,0 +1,11 @@
+<doc>
+    <title>Foo</title>
+    <url>https://www.foo.com</url>
+    <abstract>Foo details</abstract>
+    <title>Bar</title>
+    <url>https://www.bar.com</url>
+    <abstract>Bar details</abstract>
+    <title>Quz</title>
+    <url>https://www.quz.com</url>
+    <abstract>Quz details</abstract>
+</doc>
